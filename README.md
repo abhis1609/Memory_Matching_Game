@@ -21,7 +21,7 @@ A classic memory matching game where you flip cards to reveal pictures and find 
 
 ## Installation
 
-1. Clone the repository: `[git clone https://github.com/abhis1609/Memory_Matching_Game.git`
+1. Clone the repository: `git clone https://github.com/abhis1609/Memory_Matching_Game.git`
 2. Open the project folder.
 3. Launch the game.html file in your preferred web browser.
 
